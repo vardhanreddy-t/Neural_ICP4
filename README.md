@@ -5,6 +5,10 @@ PRIYA VARDHAN REDDY TAMMA         ID:700764913
 
 Neural Network Assignment ICP_6 Programs
 
+Video Link: https://drive.google.com/file/d/1FRsc9he3fu7B6Rjg_OXSD99oN7MdYyFC/view?usp=sharing
+
+
+
 Use Case Description: Predicting the diabetes disease
 
 Programming elements: Keras Basics
